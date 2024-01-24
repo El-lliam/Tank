@@ -1,0 +1,8 @@
+0= 
+1=objects.Tree
+2=objects.Brick
+3=objects.StrongBrick
+4=objects.Flag
+5=tanks.EnemyTank
+6=tanks.TankBoss
+7=plane.Plane

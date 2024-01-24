@@ -1,0 +1,4 @@
+k=0.3f
+desX=975
+desY=975
+bulletRate=100

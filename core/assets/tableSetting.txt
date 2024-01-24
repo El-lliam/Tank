@@ -1,0 +1,4 @@
+numbrePlayerBulletsMax=2
+numbreEnemyBulletsMax=50
+enemyReserve=2
+positions=4,23;16,23

@@ -1,0 +1,4 @@
+life=6
+speed=85
+bulletFreq=80
+direction=1
